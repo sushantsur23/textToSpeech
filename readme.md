@@ -28,6 +28,9 @@ Users with disabilities also have higher expectations than in the past, and deve
 
 #### Are there examples of the best free TTS APIs?
 [Amazon Polly](https://youtu.be/jXPN12ReUJg)
+
 [Google Text to Speech API](https://cloud.google.com/text-to-speech/)
+
 [Azure Text to Speech API](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+
 [IBM Watson Text to Speech])(https://www.ibm.com/cloud/watson-text-to-speech)

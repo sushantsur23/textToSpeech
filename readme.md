@@ -33,4 +33,4 @@ Users with disabilities also have higher expectations than in the past, and deve
 
 [Azure Text to Speech API](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
 
-[IBM Watson Text to Speech])(https://www.ibm.com/cloud/watson-text-to-speech)
+[IBM Watson](https://www.ibm.com/cloud/watson-text-to-speech)
